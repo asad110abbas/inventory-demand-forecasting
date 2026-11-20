@@ -1,12 +1,13 @@
-# 📦 Inventory Demand Forecasting
+# 📦 BRIHA · Inventory Demand Forecasting
 
+![BRIHA](https://img.shields.io/badge/BRIHA-Genesis_of_AGI-8B5CF6?style=for-the-badge&labelColor=0B1024) ![Module](https://img.shields.io/badge/Briha-Data_Lab-00F0FF?style=for-the-badge&labelColor=0B1024)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-4051B5)
 ![CI](https://github.com/asad110abbas/inventory-demand-forecasting/actions/workflows/ci.yml/badge.svg)
 
-> 🌌 Part of **[BRIHA AI World](https://github.com/asad110abbas)**, the AI-driven portfolio of Syed Asad Abbas.
+> ⚡ **BRIHA: The Genesis of AGI.** This is a **Briha Data Lab** module, part of the [BRIHA AI World](https://github.com/asad110abbas), built by **Syed Asad Abbas**.
 
 Forecast daily SKU demand and turn it into **inventory decisions**: safety stock, reorder point and economic
 order quantity. Three models compete per SKU in a **rolling-origin backtest**, and the winner drives the reorder plan.
