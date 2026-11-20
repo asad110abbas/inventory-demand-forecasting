@@ -6,6 +6,8 @@
 ![statsmodels](https://img.shields.io/badge/statsmodels-4051B5)
 ![CI](https://github.com/asad110abbas/inventory-demand-forecasting/actions/workflows/ci.yml/badge.svg)
 
+> 🌌 Part of **[BRIHA AI World](https://github.com/asad110abbas)**, the AI-driven portfolio of Syed Asad Abbas.
+
 Forecast daily SKU demand and turn it into **inventory decisions**: safety stock, reorder point and economic
 order quantity. Three models compete per SKU in a **rolling-origin backtest**, and the winner drives the reorder plan.
 
